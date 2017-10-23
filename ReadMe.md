@@ -1,4 +1,4 @@
-Caculator by Nguyễn Kim Tuấn
+Caculator by Nguyễn Kim Toan
 Hmmmmmmmmmmm
 Run away
 Take it easy ...
