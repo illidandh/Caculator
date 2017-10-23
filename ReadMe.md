@@ -13,4 +13,3 @@ tao add 2 dong
 tao add 3 dong
 tao add 4 dong
 tao add 5 dong
-tao add cc
